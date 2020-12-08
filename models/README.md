@@ -1,3 +1,3 @@
 # Trained Models
 
-Models trained with specified seed values for the CIFAR10 dataset
+Models trained with specified seed values for the CIFAR10 dataset.
