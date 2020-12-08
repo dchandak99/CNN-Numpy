@@ -1,10 +1,9 @@
 # Pure Numpy Implementation of CNN
 
-Details can be found [here](CS_335_Assignment_5.pdf).
-
-Datasets used can be found [here](datasets).
-
-Already trained models can be found [here](models).
+Details can be found [here](CS_335_Assignment_5.pdf).  
+Datasets used can be found [here](datasets).  
+Already trained models can be found [here](models).  
+Architecture for different datasets is described in [answers.pdf](answers.pdf).
 
 ## Results
 
