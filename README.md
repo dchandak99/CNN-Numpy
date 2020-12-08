@@ -1,1 +1,1 @@
-# A Pure Numpy implementation of CNN
+# Pure Numpy Implementation of CNN
