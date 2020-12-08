@@ -18,4 +18,4 @@ Already trained models can be found [here](models).
 |  5   |      46.8 %   |    
 |  4   |      52.6 %   |   
 
-**Average Test Accuracy**: 49.64 %
+**Average Test Accuracy**: **49.64** %
