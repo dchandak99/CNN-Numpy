@@ -1,2 +1,1 @@
-# CNN-Numpy
-A pure numpy implementation of CNN
+# A Pure Numpy implementation of CNN
