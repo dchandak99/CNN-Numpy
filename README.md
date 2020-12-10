@@ -7,7 +7,7 @@ Datasets used can be found [here](datasets).
 
 Already trained models can be found [here](models).  
 
-Architecture, hyperparamters and results for different datasets is described in [answers.pdf](answers.pdf).
+Architecture, hyperparamters and results for different datasets are described in [answers.pdf](answers.pdf).
 
 ## Results
 
